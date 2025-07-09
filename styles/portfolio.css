@@ -133,6 +133,24 @@ main section{
     display: flex;
     gap: 24px;
 }
-.experience-description, .experience-sub-title{
+.experience-sub-title{
+font-size: 20px;
+font-weight: 400;
+
+}
+.experience-description,.experience-sub-title{
     color: #757575;
+}
+.resume-downlode-cv{
+    margin-top: 50px;
+}
+/* fotter style */
+footer{
+    padding: 130px 230px ;
+    display: flex;
+    gap: 100px;
+
+}
+.footer-column{
+    width: 50%;
 }
